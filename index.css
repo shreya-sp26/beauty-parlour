@@ -553,6 +553,22 @@ nav {
         display: none;
     }
 
+  .home-text h1 {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+
+  .home-text p {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .home-text {
+    top: 55%;
+    left: 25px;
+    transform: translateY(-50%);
+  }
+
     .mobile-slides {
         display: block;
         width: 100%;
